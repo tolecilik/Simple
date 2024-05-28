@@ -1,4 +1,4 @@
-token = 'uankkccmupspalta982bbf1e7e9c23e7'
+token = 'xmivhpghsxzccbbnf69eb002036f2118'
 tracking_id = ''
 #
 os_type = 'linux'
@@ -7,7 +7,7 @@ os_version = 'os_version'
 product = 'product' 
 
 [package]
-package_id = 65
+package_id = 66
 package_version = '0.0.300'
 
 [build]
